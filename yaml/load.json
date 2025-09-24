@@ -6,12 +6,12 @@
 			"paths": [
 				{
 					"boat":true,
-					"distance": "2 hours",
+					"distance": "4 hours",
 					"points": ["S",[0.1,0.55],"valance"]
 				},
 				{
 					"points": ["S",[0.32,0.55],"valance"],
-					"distance": "6 hours"
+					"distance": "8 hours"
 				},
 				{
 					"points":["L","larkwood"],
