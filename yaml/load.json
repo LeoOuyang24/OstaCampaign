@@ -94,7 +94,24 @@
 		{
 			"name": "saka",
 			"pos": [0.72,0.6]
+		},
+		{
+			"name": "tyche",
+			"pos": [0.44,0.94]
+		},
+		{
+			"name": "plutus",
+			"pos": [0.51,0.97]
+		},
+		{
+			"name":"caerik",
+			"pos":[0.48,0.95]
+		},
+		{
+			"name":"litharius",
+			"pos":[0.6,0.95]
 		}
+
 
 	]
 
